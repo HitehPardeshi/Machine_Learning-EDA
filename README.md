@@ -1,5 +1,5 @@
 # MACHINE LEARNING - Exploratory data analysis (EDA)
-# SUPERMARKET DATASET
+# Supermarket Dataset
 
 Exploratory Data Analysis (EDA) on a supermarket dataset involves the systematic examination and exploration of the dataset to gain insights into various aspects of the supermarket's operations, customer behavior, product trends, and sales patterns. Here's a general description of how EDA can be conducted on a supermarket dataset:
 
